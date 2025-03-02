@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
