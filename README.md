@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Abhiditya/LeetCode/tree/master/0518-coin-change-ii) |
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -44,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
