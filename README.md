@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Abhiditya/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
