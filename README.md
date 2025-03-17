@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Linked List
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
