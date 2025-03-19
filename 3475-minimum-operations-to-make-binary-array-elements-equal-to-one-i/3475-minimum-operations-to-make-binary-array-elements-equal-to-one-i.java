@@ -14,10 +14,8 @@ class Solution {
                 ans++;
             }
         }
-        for(int i=0; i<n; i++){
-            if(nums[i]==0){
-                return -1;
-            }
+        if(nums[nums.length - 1] == 0 || nums[nums.length - 2] == 0){
+            return -1;
         }
         return ans;
     }
