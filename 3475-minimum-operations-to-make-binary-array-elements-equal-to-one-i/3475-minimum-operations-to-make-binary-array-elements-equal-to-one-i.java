@@ -4,13 +4,9 @@ class Solution {
         int ans=0;
         for(int i=0; i<n; i++){
             if(nums[i]==0 && i+2<n){
-                for(int j=i; j<i+3; j++){
-                    if(nums[j]==0){
-                        nums[j]=1;
-                    }else{
-                        nums[j]=0;
-                    }
-                }
+                nums[i]=1-nums[i];
+                nums[i+1]=1-nums[i+1];
+                nums[i+2]=1-nums[i+2];
                 ans++;
             }
         }
