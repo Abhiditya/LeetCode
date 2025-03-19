@@ -10,5 +10,17 @@ class Solution {
             }
         }
         return ll;
+
+        //optimized method
+        // HashSet<String> check = new HashSet<>();
+        // HashSet<String> repeated = new HashSet<>();
+
+        // for (int i = 0; i <= s.length() - 10; i++) {
+        //     String str = s.substring(i, i + 10);
+        //     if (!check.add(str)) {
+        //         repeated.add(str);
+        //     }
+        // }
+        // return new ArrayList<>(repeated);
     }
 }
