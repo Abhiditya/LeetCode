@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/Abhiditya/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3430-count-days-without-meetings](https://github.com/Abhiditya/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhiditya/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/Abhiditya/LeetCode/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
