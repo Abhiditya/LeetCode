@@ -9,7 +9,7 @@ class Solution {
             y_axis[i][0]=rectangles[i][1];
             y_axis[i][1]=rectangles[i][3];
         }
-        return (sections(x_axis) | sections(y_axis));
+        return (sections(x_axis) || sections(y_axis));
     }
 
     private boolean sections(int[][] axis) {
