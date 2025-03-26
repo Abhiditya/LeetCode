@@ -10,23 +10,35 @@ class Solution {
             }
         }
         Arrays.sort(arr);
-        int mid=arr.length/2;
+        int mid=(arr.length-1)/2;
         int result=0;
-        for(int i=0; i<arr.length; i++){
-            while(arr[i]<arr[mid]){
-                arr[i]+=x;
-                result++;
-            }
-            while(arr[i]>arr[mid]){
-                arr[i]-=x;
-                result++;
-            }
-        }
+        // for(int i=0; i<arr.length; i++){
+        //     while(arr[i]<arr[mid]){
+        //         arr[i]+=x;
+        //         result++;
+        //     }
+        //     while(arr[i]>arr[mid]){
+        //         arr[i]-=x;
+        //         result++;
+        //     }
+        // }
+        // for(int val: arr){
+        //     if(val!=arr[mid]){
+        //         return -1;
+        //     }
+        // }
+        //optimized
+
         for(int val: arr){
-            if(val!=arr[mid]){
+            if(val==arr[mid]){
+                continue;
+            }
+            if(Math.abs(val-arr[mid])%x!=0){
                 return -1;
             }
+            result+=(Math.abs(val-arr[mid])/x);
         }
+
         return result;
     }
 }
