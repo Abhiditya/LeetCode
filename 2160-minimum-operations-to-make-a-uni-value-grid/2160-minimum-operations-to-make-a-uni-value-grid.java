@@ -12,13 +12,11 @@ class Solution {
         Arrays.sort(arr);
         int mid=arr.length/2;
         int result=0;
-        for(int i=0; i<mid; i++){
+        for(int i=0; i<arr.length; i++){
             while(arr[i]<arr[mid]){
                 arr[i]+=x;
                 result++;
             }
-        }
-        for(int i=mid+1; i<arr.length; i++){
             while(arr[i]>arr[mid]){
                 arr[i]-=x;
                 result++;
