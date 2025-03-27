@@ -3,12 +3,10 @@ class Solution {
         HashMap<Integer, Integer> hash= new HashMap<>();
         int n=nums.size();
         int maxF=0;
-        int Dom=nums.get(0);
+        int Dom=Moore_Voting(nums);
         for (int num : nums) {
-            hash.put(num, hash.getOrDefault(num, 0) + 1);
-            if(maxF<hash.get(num)){
-                Dom=num;
-                maxF=hash.get(num);
+            if(num==Dom){
+                maxF++;
             }
         }
         int f1=0, f2=maxF;
@@ -23,4 +21,21 @@ class Solution {
         }
         return -1;
     }
+    public static int Moore_Voting(List<Integer> arr) {
+		int e=arr.get(0);
+		int vote=1;
+		for(int i=1; i<arr.size(); i++) {
+			if(arr.get(i)==e) {
+				vote++;
+			}
+			else {
+				vote--;
+			}
+			if(vote==0) {
+				e=arr.get(i);
+				vote=1;
+			}
+		}
+		return e;
+	}
 }
