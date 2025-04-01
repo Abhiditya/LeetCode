@@ -12,8 +12,7 @@ class Solution {
             return dp[i];
         }
         long nopick=solve(i+1,arr,dp);
-        int nextIndex = i + arr[i][1] + 1;
-        long pick = arr[i][0] + (nextIndex < arr.length ? solve(nextIndex, arr, dp) : 0);
+        long pick=arr[i][0]+ solve(i+arr[i][1]+1,arr,dp);
         return dp[i]=Math.max(pick,nopick);
     }
 }
