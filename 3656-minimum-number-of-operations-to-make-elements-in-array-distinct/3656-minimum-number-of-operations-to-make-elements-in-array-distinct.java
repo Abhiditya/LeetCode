@@ -1,29 +1,13 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int count = 0;
-        int i = 0;
+        int[] freq = new int[101];
+        Arrays.fill(freq, 0);
 
-        while (i < nums.length) {
-            Set<Integer> set = new HashSet<>();
-            boolean foundDuplicate = false;
-
-            for (int j = i; j < nums.length; j++) {
-                if (set.contains(nums[j])) {
-                    foundDuplicate = true;
-                    break;
-                }
-                set.add(nums[j]);
-            }
-
-            if (foundDuplicate) {
-                count++;
-                i += 3; // remove first 3
-            } else {
-                break;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (++freq[nums[i]] > 1) {
+                return (int) Math.ceil((double) (i + 1) / 3);
             }
         }
-
-        return count;
+        return 0;
     }
-
 }
