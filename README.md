@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhiditya/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhiditya/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/Abhiditya/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhiditya/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Abhiditya/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2249-count-the-hidden-sequences](https://github.com/Abhiditya/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhiditya/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
