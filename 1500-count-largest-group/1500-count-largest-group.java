@@ -1,17 +1,15 @@
 class Solution {
     public int countLargestGroup(int n) {
-        Map<Integer, List<Integer>> ll = new HashMap<>();
-        
+        int[] arr = new int[37];
         int max=0;
-        for(int i=1; i<=n; i++){
-            int sum=sum(i);
-            ll.putIfAbsent(sum, new ArrayList<>());
-            ll.get(sum).add(i);
-            max = ll.get(sum).size() > max ? ll.get(sum).size() : max ;
+        for (int i = 1; i <= n; i++) {
+            int sum = sum(i);
+            arr[sum]++;
+            max = Math.max(max, arr[sum]);
         }
         int count=0;
-        for (Integer key : ll.keySet()){
-            if(ll.get(key).size()==max) count++;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == max) count++;
         }
         return count;
     }
