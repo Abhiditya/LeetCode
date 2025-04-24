@@ -6,12 +6,18 @@ class Solution {
             hash.add(nums[i]);
         }
         int dis=hash.size();
+        HashMap <Integer, Integer> map = new HashMap <>() ; 
+        int si=0;
         int count=0;
         for(int i=0; i<n; i++){
-            HashSet<Integer> hash_temp= new HashSet<>();
-            for(int j=i; j<n; j++){
-                hash_temp.add(nums[j]);
-                if(hash_temp.size()==dis) count++;
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1) ;
+            while(map.size() == dis){
+                count += n-i ;
+                map.put(nums[si], map.get(nums[si])-1 ) ;
+                if(map.get(nums[si]) == 0){
+                    map.remove(nums[si]) ; 
+                }
+                si++ ; 
             }
         }
         return count;
