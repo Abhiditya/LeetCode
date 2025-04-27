@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Abhiditya/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhiditya/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhiditya/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhiditya/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
