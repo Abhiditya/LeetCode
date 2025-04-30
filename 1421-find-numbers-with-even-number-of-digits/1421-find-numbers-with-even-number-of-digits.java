@@ -3,7 +3,13 @@ class Solution {
         int n=nums.length;
         int count=0;
         for(int i=0; i<n; i++){
-            if(String.valueOf(Math.abs(nums[i])).length()%2==0) count++;
+            int temp=nums[i];
+            int len=0;
+            while(temp>0){
+                len++;
+                temp/=10;
+            }
+            if(len%2==0) count++;
         }
         return count;
     }
