@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhiditya/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhiditya/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Monotonic Queue
 |  |
 | ------- |
