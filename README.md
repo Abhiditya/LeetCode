@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhiditya/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhiditya/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Abhiditya/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhiditya/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhiditya/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhiditya/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/Abhiditya/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Queue
 |  |
 | ------- |
