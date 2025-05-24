@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Abhiditya/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhiditya/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Abhiditya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhiditya/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/Abhiditya/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Abhiditya/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Abhiditya/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Abhiditya/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
