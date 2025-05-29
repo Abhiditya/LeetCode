@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhiditya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhiditya/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Abhiditya/LeetCode/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/Abhiditya/LeetCode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhiditya/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Abhiditya/LeetCode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
