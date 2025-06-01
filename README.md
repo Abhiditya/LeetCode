@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Abhiditya/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhiditya/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3199-distribute-candies-among-children-i](https://github.com/Abhiditya/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3321-type-of-triangle](https://github.com/Abhiditya/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhiditya/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
@@ -236,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/Abhiditya/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Abhiditya/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3199-distribute-candies-among-children-i](https://github.com/Abhiditya/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
