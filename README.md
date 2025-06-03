@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Abhiditya/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhiditya/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhiditya/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhiditya/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Abhiditya/LeetCode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/Abhiditya/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhiditya/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhiditya/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhiditya/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhiditya/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
