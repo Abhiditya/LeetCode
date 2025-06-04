@@ -4,19 +4,14 @@ class Solution {
         if (word == null || n == 0) return "";
         if (numFriends==1) return word;
 
-        char[] chars= word.toCharArray();
-        Arrays.sort(chars);
         int max_len= n - numFriends + 1;
         String max= "";
 
-        for (int i=0; i<n; i++) {
-            if (word.charAt(i)==chars[chars.length-1]) {
-                int si=i, ei=i;
-                while (ei<Math.min(n, i+max_len)) {
-                    String sub = word.substring(si, ei + 1);
-                    if (sub.compareTo(max) > 0) max=sub;
-                    ei++;
-                }
+        for (int i = 0; i < n; i++) {
+            int min = Math.min(i + max_len, n);
+            String sub = word.substring(i, min);
+            if (sub.compareTo(max) > 0) {
+                max = sub;
             }
         }
         return max;
