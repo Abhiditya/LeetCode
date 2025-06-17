@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhiditya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Abhiditya/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhiditya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhiditya/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhiditya/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhiditya/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Abhiditya/LeetCode/tree/master/0518-coin-change-ii) |
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhiditya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Abhiditya/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhiditya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
