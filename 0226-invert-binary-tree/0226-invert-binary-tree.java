@@ -20,10 +20,11 @@ class Solution {
 
     private TreeNode inverted(TreeNode root){
         if(root==null) return root;
-        TreeNode left=  inverted(root.right);
-        TreeNode right=  inverted(root.left);
-        root.left=left;
-        root.right=right;
+        TreeNode temp=root.left;
+        root.left=root.right;
+        root.right=temp;
+        inverted(root.left);
+        inverted(root.right);
         return root;
     }
 }
