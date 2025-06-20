@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhiditya/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhiditya/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhiditya/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhiditya/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhiditya/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhiditya/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
