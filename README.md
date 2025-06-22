@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Abhiditya/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhiditya/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Linked List
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhiditya/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Abhiditya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Abhiditya/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
