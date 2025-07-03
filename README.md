@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhiditya/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/Abhiditya/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhiditya/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Abhiditya/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Linked List
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/Abhiditya/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhiditya/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhiditya/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhiditya/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Abhiditya/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhiditya/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhiditya/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhiditya/LeetCode/tree/master/0050-powx-n) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhiditya/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
