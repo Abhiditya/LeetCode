@@ -19,8 +19,7 @@ class RandomizedSet {
     public boolean remove(int val) {
         if(!hash.contains(val)) return false;
         hash.remove(val);
-        list.set(list.indexOf(val),list.get(list.size() - 1));
-        list.remove(list.size() - 1);
+        list.remove(list.indexOf(val));
         return true;
     }
     
