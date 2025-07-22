@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhiditya/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Abhiditya/LeetCode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/Abhiditya/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/Abhiditya/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhiditya/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Abhiditya/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhiditya/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhiditya/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Abhiditya/LeetCode/tree/master/1500-count-largest-group) |
+| [1813-maximum-erasure-value](https://github.com/Abhiditya/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhiditya/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhiditya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhiditya/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Abhiditya/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/Abhiditya/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhiditya/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Abhiditya/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhiditya/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
