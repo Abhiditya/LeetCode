@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhiditya/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2478-longest-nice-subarray](https://github.com/Abhiditya/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiditya/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhiditya/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhiditya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhiditya/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhiditya/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhiditya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhiditya/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2886-faulty-keyboard](https://github.com/Abhiditya/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhiditya/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Abhiditya/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -356,10 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhiditya/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhiditya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Abhiditya/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhiditya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Randomized
 |  |
 | ------- |
@@ -376,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abhiditya/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
