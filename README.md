@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhiditya/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Abhiditya/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhiditya/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -360,11 +361,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhiditya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Abhiditya/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 ## Design
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhiditya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 ## Randomized
 |  |
 | ------- |
@@ -385,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
