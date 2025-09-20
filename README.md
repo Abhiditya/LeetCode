@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Abhiditya/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Abhiditya/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Abhiditya/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhiditya/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhiditya/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhiditya/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhiditya/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhiditya/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Abhiditya/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -394,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Abhiditya/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhiditya/LeetCode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Abhiditya/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
