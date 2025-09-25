@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abhiditya/LeetCode/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/Abhiditya/LeetCode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Abhiditya/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Abhiditya/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Abhiditya/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Abhiditya/LeetCode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Abhiditya/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Abhiditya/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Abhiditya/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhiditya/LeetCode/tree/master/0416-partition-equal-subset-sum) |
