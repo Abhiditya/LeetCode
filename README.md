@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhiditya/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Abhiditya/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhiditya/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhiditya/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1105-uncrossed-lines](https://github.com/Abhiditya/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhiditya/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Abhiditya/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhiditya/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhiditya/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhiditya/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Abhiditya/LeetCode/tree/master/1500-count-largest-group) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Abhiditya/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhiditya/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhiditya/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhiditya/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhiditya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abhiditya/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abhiditya/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/Abhiditya/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhiditya/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhiditya/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhiditya/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhiditya/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
